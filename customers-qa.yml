@@ -1,0 +1,9 @@
+sample:
+ property: "QA Property"
+
+customer:
+ name: "Heidy Sushmi"
+ age: 31
+ contactDetails:
+  name: "Joe Doe"
+  age: 20

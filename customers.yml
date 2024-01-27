@@ -1,0 +1,9 @@
+sample:
+ property: "Default Property"
+ 
+customer:
+ name: "Ronald Paul"
+ age: 33
+ contactDetails:
+  name: "John"
+  age: 22
