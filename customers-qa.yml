@@ -2,7 +2,7 @@ sample:
  property: "QA Property"
 
 customer:
- name: "Heidy Sushmi"
+ name: "{cipher}306492ddd0e0f531395ffd070a7b99c6aed3dcea05a0fd15111d198c31dfa7b3"
  age: 31
  contactDetails:
   name: "Joe Doe"
