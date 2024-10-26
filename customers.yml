@@ -2,8 +2,8 @@ sample:
  property: "Default Property"
  
 customer:
- name: "Ronald Paul"
- age: 33
+ name: "Hannah Rachel"
+ age: 1
  contactDetails:
   name: "John"
   age: 22
